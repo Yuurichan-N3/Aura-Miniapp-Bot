@@ -1,1 +1,1 @@
-# Scratch-Miniapp-Bot
+# Aura X Crypto Bot
